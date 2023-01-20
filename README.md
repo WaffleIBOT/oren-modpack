@@ -25,7 +25,8 @@
 >+ C2ME
 >+ Antighost
 >+ Dashloader
->+ [Fabric Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric)
+>+ [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders)
+>+ [Flytre Lib](https://www.curseforge.com/minecraft/mc-mods/lib)
 >+ [Fabric Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric)
 >+ [Fabric Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 >+ [Fabric Server Performance Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
@@ -36,7 +37,7 @@
 >+ Server Core
 >+ Cull Less Leaves
 >+ Better Beds
->+ Smooth Chunk
+>+ CIT Resewn
 >+ Mod Menu
 >+ Smoke Suppression
 >+ Fast Chest
@@ -145,8 +146,10 @@
 >+ Origins
 >+ Origins++
 >+ Origins Classes
+>+ Colormatic
+>+ More Chat History
 >
-> </details>        
+> </details>      
 
 # Important:
 >## *-If you have doubts about the performance of the modpack, I leave you the specifications of my laptop.*
